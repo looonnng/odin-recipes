@@ -6,3 +6,14 @@ ol, ul li {
     list-style-type: square;
 }
 
+h1, .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
