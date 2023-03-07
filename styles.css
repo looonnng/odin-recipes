@@ -12,7 +12,7 @@ h1, .container{
     justify-content: center;
 }
 
-ul {
+#front_page {
     display: flex;
     align-items: center;
     justify-content: space-between;
