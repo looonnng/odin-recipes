@@ -31,3 +31,7 @@ h1,
 #front-page li {
      list-style: none;
 }
+
+.image {
+    display: grid;
+}
